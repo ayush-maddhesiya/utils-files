@@ -5,6 +5,5 @@ import { asyncHandler } from "./asyncHandler.js";
 export { 
   ApiError, 
   ApiResponse, 
-  asyncHandler, 
-  Middleware 
+  asyncHandler,
   };

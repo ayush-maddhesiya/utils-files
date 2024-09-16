@@ -1,0 +1,25 @@
+{
+  "name": "utils-files",
+  "version": "0.0.1",
+  "description": "this is utils files mainly as wraper for my most of projects.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush-maddhesiya/utils-files.git"
+  },
+  "keywords": [
+    "ApiError",
+    "ApiResponse",
+    "Middleware"
+  ],
+  "author": "Ayush Maddhesiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayush-maddhesiya/utils-files/issues"
+  },
+  "homepage": "https://github.com/ayush-maddhesiya/utils-files#readme"
+}
